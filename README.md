@@ -1,4 +1,4 @@
-# 🔍 Nmap Port & Service Scanner – Python
+# 🔍 Nmap Port & Service Scanner – Python 
 
 A lightweight Python tool using the `nmap` library to scan all TCP ports and identify services running on a given host. Designed for ethical hacking practice, network diagnostics, and cybersecurity learning.
 
